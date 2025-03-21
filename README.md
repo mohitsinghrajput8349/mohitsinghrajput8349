@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohit singh rajput</h1>
 Welcome to my GitHub profile!
 - 📫 How to reach me **msrajput8349@gmail.com**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsinghrajput8349)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left">
 </p>
