@@ -10,6 +10,7 @@ I don't just write code — I ship systems that run in production.
   <a href="mohix1534@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+918989577019"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+<i>msrajput8349@gmail.com</i>
 
 ---
 
@@ -87,4 +88,5 @@ A full-stack event registration and management system.
 
 <p align="center">
 <i>Building software that survives contact with real users.</i>
+  
 </p>
